@@ -1,7 +1,7 @@
 ---
 title: Neuroscience Experiments System Tool Fund
 date: 2020-01-23
-tags:
+tags: ["tool-fund"]
 category: grantee-profiles-2019
 image: /img/blog/nes_logo.png
 ---
